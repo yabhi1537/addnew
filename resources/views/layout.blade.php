@@ -11,7 +11,6 @@
   <div class="container">
     @yield('content')
   </div>
-  <div>crud</div>
   <script src="{{ asset('js/app.js') }}" type="text/js"></script>
 </body>
 </html>
